@@ -22,8 +22,8 @@ As I continue my learning journey in iOS development, I plan to enhance the app 
 
 - [ ] Multi-day weather forecasts
 - [ ] User preferences for metric/imperial units
-- [ ]Integration with a weather API for accurate data
-- [ ]Improved UI/UX design
+- [ ] Integration with a weather API for accurate data
+- [ ] Improved UI/UX design
 
 I'm excited to share my progress and growth in iOS development through this project. Feel free to explore the code, provide feedback, or even collaborate with me if you're interested!
 
