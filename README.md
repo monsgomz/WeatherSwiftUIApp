@@ -32,7 +32,7 @@ Stay tuned for updates as I make improvements and add more functionality to the 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/monsgomz/WeatherSwiftUIApp/blob/main/WeatherApp1.png?raw=true)https://github.com/monsgomz/WeatherSwiftUIApp/blob/main/WeatherApp1.png?raw=true)
 
 
 ## Reference
