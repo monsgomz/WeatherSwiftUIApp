@@ -1,5 +1,5 @@
 
-# iOS Weather App using Swift and SwiftUI
+# iOS Weather App using Swift and SwiftUI 🌦️
 
 Welcome to my iOS Weather App project! 🌦️📱
 
